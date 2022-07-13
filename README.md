@@ -4,6 +4,9 @@ I am currently a sophomore student at Babeș-Bolyai University pursuing a bachel
 
 ## Project showcase
 - 🎓 [University work](https://github.com/raul-dunca/university-work) - here you can find a good part of all my university-related work.
+- 🃏 [Blackjack](https://github.com/raul-dunca/blackjack) - implemented a **2D** replica of the classical **blackjack** game.
+- 💠 [ZigZag](https://github.com/raul-dunca/zigzag) - designed a replica of the **zigzag** mobile game.
+- 🔲 [Pong](https://github.com/raul-dunca/pong) - created a replica of one of the first computer games ever invented **pong**.
 
 ## Get in touch 📧
 - [LinkedIn](https://www.linkedin.com/in/raul-dunca-a79a681a9/)
