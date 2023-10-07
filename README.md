@@ -1,6 +1,6 @@
 ### Hi 👋, I’m Raul!
 ## About me
-I am currently a sophomore student at Babeș-Bolyai University pursuing a bachelors degree in Computer Science.
+I am currently a senior student at Babeș-Bolyai University pursuing a bachelors degree in Computer Science.
 
 ## Project showcase
 - 🎓 [University work](https://github.com/raul-dunca/university-work) - here you can find a good part of all my university-related work.
