@@ -6,7 +6,7 @@ I am currently a senior student at Babeș-Bolyai University pursuing a bachelors
 - 🎓 [University work](https://github.com/raul-dunca/university-work) - here you can find a good part of all my university-related work.
 - 🌱 [Greeny](https://github.com/raul-dunca/SmartGardening) - a smart agriculture collaborative project.
 - 🃏 [Blackjack](https://github.com/raul-dunca/blackjack) - implemented a **2D** replica of the classical **blackjack** game.
-- 🎮 [Pong](https://github.com/raul-dunca/pong) - created a replica of one of the first computer games ever invented **pong**.
+- 🎮 [Pong](https://github.com/raul-dunca/pong) - created a reinterpretation of one of the first computer games ever invented **pong**.
 - 💠 [ZigZag](https://github.com/raul-dunca/zigzag) - designed a replica of the **zigzag** mobile game.
 
 ## Get in touch 📧
