@@ -3,7 +3,7 @@
 I am currently a senior student at Babeș-Bolyai University pursuing a bachelors degree in Computer Science.
 
 ## Project showcase
-- 🔒 [RansoGuard](https://github.com/raul-dunca/ransoguard) - an automated hybrid ransomware family classificator.
+- 🔒 [RansoGuard](https://github.com/raul-dunca/ransoguard) - an automated hybrid ransomware family classifier.
 - 🎓 [University work](https://github.com/raul-dunca/university-work) - here you can find a good part of all my university-related work.
 - 🌱 [Greeny](https://github.com/raul-dunca/SmartGardening) - a smart agriculture collaborative project.
 - 🃏 [Blackjack](https://github.com/raul-dunca/blackjack) - implemented a **2D** replica of the classical **blackjack** game.
