@@ -1,6 +1,6 @@
 ### Hi 👋, I’m Raul!
 ## About me
-I am currently in the first year of my master’s program in Cybersecurity and Resilience at St. Pölten University of Applied Sciences.
+I am currently in the first year of my master’s program in Cybersecurity and Resilience at St. Pölten University of Applied Sciences. I participate in CTF competitions, and you can find more about my team [here](https://ctftime.org/team/313749).
 ## Project showcase
 - 🔒 [RansoGuard](https://github.com/raul-dunca/ransoguard) - an automated hybrid ransomware family classifier.
 - 🚩 [CTF Writeups](https://github.com/raul-dunca/ctf-writeups) - my ctf writeups.
