@@ -1,7 +1,6 @@
 ### Hi 👋, I’m Raul!
 ## About me
-I am currently a senior student at Babeș-Bolyai University pursuing a bachelors degree in Computer Science.
-
+I am currently in the first year of my master’s program in Cybersecurity and Resilience at St. Pölten University of Applied Sciences.
 ## Project showcase
 - 🔒 [RansoGuard](https://github.com/raul-dunca/ransoguard) - an automated hybrid ransomware family classifier.
 - 🚩 [CTF Writeups](https://github.com/raul-dunca/ctf-writeups) - my ctf writeups.
