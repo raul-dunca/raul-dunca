@@ -6,8 +6,8 @@ I enjoy understanding how systems work beneath the surface and uncovering why th
 
 Below you can find most of my work, starting from university projects and research to personal applications, games, security-related projects and other things I've built along the way.
 ## Project showcase
-- 🛡️ [Evaluation and Mitigation of Indirect Prompt Injection Attacks](https://github.com/raul-dunca/ai_honeypot) - a flask-based honeypot, containing an SQLi vulnerability used to evaluate indirect prompt injection (IPI) attacks against AI attacker agents as part of my master's thesis.
 - 🔒 [RansoGuard](https://github.com/raul-dunca/ransoguard) - an automated hybrid ransomware family classifier.
+- 🛡️ [Evaluation and Mitigation of Indirect Prompt Injection Attacks](https://github.com/raul-dunca/ai_honeypot) - a flask-based honeypot, containing an SQLi vulnerability used to evaluate indirect prompt injection (IPI) attacks against AI attacker agents as part of my master's thesis.
 - 🚩 [CTF Writeups](https://github.com/raul-dunca/ctf-writeups) - my CTF writeups.
 - 🎓 [University work](https://github.com/raul-dunca/university-work) - here you can find a good part of all my university-related work.
 - 🌱 [Greeny](https://github.com/raul-dunca/SmartGardening) - a smart agriculture collaborative project.
