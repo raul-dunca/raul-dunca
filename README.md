@@ -1,6 +1,10 @@
-### Hi 👋, I’m Raul!
+## Hi 👋, I’m Raul!
 ## About me
-I am currently in the second year of my master’s program in Cybersecurity and Resilience at St. Pölten University of Applied Sciences.
+I am a **Cybersecurity and Resilience graduate** with a background in **Software Development**, currently focused on **offensive security** and **reverse engineering**.
+
+I enjoy understanding how systems work beneath the surface and uncovering why they behave the way they do. When faced with something unfamiliar, I like to dig deeper, experiment, and explore the source or documentation until I can build a clear mental model of how it works.
+
+Below you can find most of my work, starting from university projects and research to personal applications, games, security-related projects and other things I've built along the way.
 ## Project showcase
 - 🔒 [RansoGuard](https://github.com/raul-dunca/ransoguard) - an automated hybrid ransomware family classifier.
 - 🚩 [CTF Writeups](https://github.com/raul-dunca/ctf-writeups) - my CTF writeups.
